@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\arena.jpg",
+      "PackagePath": "staticwebassets\\arena.jpg"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\casa.jpg",
+      "PackagePath": "staticwebassets\\casa.jpg"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\desafio.jpg",
+      "PackagePath": "staticwebassets\\desafio.jpg"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\entrada.jpg",
+      "PackagePath": "staticwebassets\\entrada.jpg"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\final.jpg",
+      "PackagePath": "staticwebassets\\final.jpg"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\logoGH.webp",
+      "PackagePath": "staticwebassets\\logoGH.webp"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\santi.webp",
+      "PackagePath": "staticwebassets\\santi.webp"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\telefono.webp",
+      "PackagePath": "staticwebassets\\telefono.webp"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TP05.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TP05.props",
+      "PackagePath": "build\\TP05.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TP05.props",
+      "PackagePath": "buildMultiTargeting\\TP05.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TP05.props",
+      "PackagePath": "buildTransitive\\TP05.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
