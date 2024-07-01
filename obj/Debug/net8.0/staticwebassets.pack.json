@@ -1,8 +1,24 @@
 {
   "Files": [
     {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\Alan.jpeg",
+      "PackagePath": "staticwebassets\\Alan.jpeg"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\Santi.jpeg",
+      "PackagePath": "staticwebassets\\Santi.jpeg"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Thumbs.db"
+    },
+    {
       "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\arena.jpg",
       "PackagePath": "staticwebassets\\arena.jpg"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\ari.png",
+      "PackagePath": "staticwebassets\\ari.png"
     },
     {
       "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\casa.jpg",
@@ -17,6 +33,22 @@
       "PackagePath": "staticwebassets\\desafio.jpg"
     },
     {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\desafio1.png",
+      "PackagePath": "staticwebassets\\desafio1.png"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\desafio2.png",
+      "PackagePath": "staticwebassets\\desafio2.png"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\desafio3.png",
+      "PackagePath": "staticwebassets\\desafio3.png"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\desafio4.png",
+      "PackagePath": "staticwebassets\\desafio4.png"
+    },
+    {
       "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\entrada.jpg",
       "PackagePath": "staticwebassets\\entrada.jpg"
     },
@@ -27,6 +59,14 @@
     {
       "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\final.jpg",
       "PackagePath": "staticwebassets\\final.jpg"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\ganador.webp",
+      "PackagePath": "staticwebassets\\ganador.webp"
+    },
+    {
+      "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\gif vic.gif",
+      "PackagePath": "staticwebassets\\gif vic.gif"
     },
     {
       "Id": "Z:\\PROG 4TO AÑO\\TP05 - JUSID, ZOLOTOW, SOLMESKY\\TP05\\wwwroot\\js\\site.js",

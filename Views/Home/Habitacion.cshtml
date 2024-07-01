@@ -1,0 +1,32 @@
+@{
+    Layout = "_Layout";
+    string habitacionTitulo = ViewData["Title"] as string;
+    string habitacionDescripcion = ViewData["Description"] as string;
+    string habitacionImagen = ViewData["Image"] as string;
+    string habitacionAction = ViewData["Action"] as string;
+    <a href='@Url.Action("Index")'> <img src = "~/logoGH.webp" alt = "logo"></img></a>
+}
+
+<h1>@habitacionTitulo</h1>
+
+<p>@habitacionDescripcion</p>
+
+<div>
+    <img src="@habitacionImagen" alt="Pista de la @habitacionTitulo" />
+</div>
+
+@if (ViewBag.Error != null)
+{
+    <p style="color:red">@ViewBag.Error</p>
+}
+
+<form method="post" action="@habitacionAction">
+    <label for="respuesta">Introduce la clave:</label>
+    <input type="text" id="respuesta" name="respuesta" required />
+    <button type="submit">VALIDAR</button>
+</form>
+
+<form method="post" action="@Url.Action("Pista", "Home")">
+    <button type="submit" name="pista" value="1">Pista 1</button>
+    <button type="submit" name="pista" value="2">Pista 2</button>
+</form>

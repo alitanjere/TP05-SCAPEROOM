@@ -18,12 +18,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05
 build_property._RazorSourceGeneratorDebug = 
 
+[Z:/PROG 4TO AÑO/TP05 - JUSID\, ZOLOTOW\, SOLMESKY/TP05/Views/Home/creditos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjcmVkaXRvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/PROG 4TO AÑO/TP05 - JUSID\, ZOLOTOW\, SOLMESKY/TP05/Views/Home/Habitacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWJpdGFjaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [Z:/PROG 4TO AÑO/TP05 - JUSID\, ZOLOTOW\, SOLMESKY/TP05/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [Z:/PROG 4TO AÑO/TP05 - JUSID\, ZOLOTOW\, SOLMESKY/TP05/Views/Home/Tutorial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUdXRvcmlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/PROG 4TO AÑO/TP05 - JUSID\, ZOLOTOW\, SOLMESKY/TP05/Views/Home/Victoria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaWN0b3JpYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [Z:/PROG 4TO AÑO/TP05 - JUSID\, ZOLOTOW\, SOLMESKY/TP05/Views/Shared/_Layout.cshtml]
