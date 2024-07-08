@@ -4,9 +4,19 @@
     string habitacionDescripcion = ViewData["Description"] as string;
     string habitacionImagen = ViewData["Image"] as string;
     string habitacionAction = ViewData["Action"] as string;
-    <a href='@Url.Action("Index")'> <img src = "~/logoGH.webp" alt = "logo"></img></a>
+    //string [] habitacionPistas = ViewData["Pistas"];
 }
+<header>
+    <a href='@Url.Action("Index")'> <img src = "~/logoGH.webp" alt = "logo"></img></a>
+    <div class = "Titulos">
+    <h1>GRAN HERMANO</h1>
+    <h3>"La casa más famosa del mundo"</h3>
+    </div>
 
+ <button><a href = '@Url.Action("Tutorial")'>Tutorial</a></button>
+    <button><a href = '@Url.Action("Comenzar")'>Comenzar</a></button>
+    <button><a href = '@Url.Action("Creditos")'>Créditos</a></button>
+</header>
 <h1>@habitacionTitulo</h1>
 
 <p>@habitacionDescripcion</p>
@@ -20,13 +30,35 @@
     <p style="color:red">@ViewBag.Error</p>
 }
 
-<form method="post" action="@habitacionAction">
+<form method="get" action="@habitacionAction">
     <label for="respuesta">Introduce la clave:</label>
     <input type="text" id="respuesta" name="respuesta" required />
     <button type="submit">VALIDAR</button>
-</form>
 
-<form method="post" action="@Url.Action("Pista", "Home")">
-    <button type="submit" name="pista" value="1">Pista 1</button>
-    <button type="submit" name="pista" value="2">Pista 2</button>
+
+<button onclick="myFunction(@Escape.Pistas)">Pista 1</button>
+<button type="submit" name="pista" value="2">Pista 2</button>
 </form>
+<script>
+    function myFunction(Escape.P) {
+        switch (id)
+            {
+                case 1:
+                    alert(Escape.Pistas[1]);
+                    break;
+                case 2:
+                    ViewData["Image"] = "/desafio2.png";
+                    break;
+                case 3:
+                    ViewData["Image"] = "/desafio3.png";
+                    break;
+                case 4:
+                    ViewData["Image"] = "/desafio4.png";
+                    break;
+                default:
+                    RedirectToAction("Index");
+                    break;
+        
+            }
+    }
+</script>

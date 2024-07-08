@@ -1,8 +1,17 @@
 @{
     ViewData["Title"] = "Victoria";
 }
-
+<header>
     <a href='@Url.Action("Index")'> <img src = "~/logoGH.webp" alt = "logo"></img></a>
+    <div class = "Titulos">
+    <h1>GRAN HERMANO</h1>
+    <h3>"La casa más famosa del mundo"</h3>
+    </div>
+
+ <button><a href = '@Url.Action("Tutorial")'>Tutorial</a></button>
+    <button><a href = '@Url.Action("Comenzar")'>Comenzar</a></button>
+    <button><a href = '@Url.Action("Creditos")'>Créditos</a></button>
+</header>
     <img src = "~/ganador.webp" alt = "img1"></img>
     <h1>¡¡FELICIDADES!!</h1>
     <h3>Luego de mucho esfuerzo y sacrificio, lograste ganar el premio de la casa más famosa de Argentina</h3>

@@ -1,15 +1,27 @@
 @{
     ViewData["Title"] = "creditos";
 }
-  <a href='@Url.Action("Index")'> <img src = "~/logoGH.webp" alt = "logo"></img></a>
-    <h1>GRAN HERMANO Scape Room</h1>
+<header>
+    <a href='@Url.Action("Index")'> <img src = "~/logoGH.webp" alt = "logo"></img></a>
+    <div class = "Titulos">
+    <h1>GRAN HERMANO</h1>
+    <h3>"La casa más famosa del mundo"</h3>
+    </div>
+
+ <button><a href = '@Url.Action("Tutorial")'>Tutorial</a></button>
+    <button><a href = '@Url.Action("Comenzar")'>Comenzar</a></button>
+    <button><a href = '@Url.Action("Creditos")'>Créditos</a></button>
+</header>
+<div class = Creditos>
     <h1>Integrantes de este gran equipo</h1>
     <img src = "~/Alan.jpeg"></img>
      <h1>Alan Zolotow <u>alias</u>: Alitan</h1>
-      <h2>Inventor, planificador del proyecto y el gracioso del equipo</h2>
+      <h2>Planificador y programador</h2>
     <img src = "~/ari.png"></img>
      <h1>Ari Jusid <u>alias</u>: Aro</h1>
-      <h2>Diseñador, fan de gran hermano y el DT del equipo</h2>
+      <h2>Diseñador y programador</h2>
     <img src = "~/Santi.jpeg"></img>
       <h1>Santiago Solmesky <u>alias</u>: Solme</h1>
-      <h2>Programador, fan de BOQUE y el Roman del equipo</h2>
+      <h2>Programador</h2>
+</div class = Creditos>
+

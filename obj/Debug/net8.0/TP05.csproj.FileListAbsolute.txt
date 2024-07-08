@@ -1,29 +1,29 @@
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\bin\Debug\net8.0\appsettings.Development.json
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\bin\Debug\net8.0\appsettings.json
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\bin\Debug\net8.0\TP05.staticwebassets.runtime.json
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\bin\Debug\net8.0\TP05.exe
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\bin\Debug\net8.0\TP05.deps.json
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\bin\Debug\net8.0\TP05.runtimeconfig.json
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\bin\Debug\net8.0\TP05.dll
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\bin\Debug\net8.0\TP05.pdb
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\TP05.GeneratedMSBuildEditorConfig.editorconfig
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\TP05.AssemblyInfoInputs.cache
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\TP05.AssemblyInfo.cs
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\TP05.csproj.CoreCompileInputs.cache
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\TP05.MvcApplicationPartsAssemblyInfo.cache
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\TP05.RazorAssemblyInfo.cache
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\TP05.RazorAssemblyInfo.cs
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\staticwebassets.build.json
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\staticwebassets.development.json
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\staticwebassets\msbuild.TP05.Microsoft.AspNetCore.StaticWebAssets.props
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\staticwebassets\msbuild.build.TP05.props
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TP05.props
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TP05.props
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\staticwebassets.pack.json
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\scopedcss\bundle\TP05.styles.css
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\TP05.dll
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\refint\TP05.dll
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\TP05.pdb
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\TP05.genruntimeconfig.cache
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\ref\TP05.dll
-Z:\PROG 4TO AÑO\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\TP05.sourcelink.json
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\TP05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\TP05.AssemblyInfoInputs.cache
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\TP05.AssemblyInfo.cs
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\TP05.csproj.CoreCompileInputs.cache
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\TP05.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\TP05.RazorAssemblyInfo.cache
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\TP05.RazorAssemblyInfo.cs
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\TP05.sourcelink.json
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\bin\Debug\net8.0\appsettings.json
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\bin\Debug\net8.0\TP05.staticwebassets.runtime.json
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\bin\Debug\net8.0\TP05.exe
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\bin\Debug\net8.0\TP05.deps.json
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\bin\Debug\net8.0\TP05.runtimeconfig.json
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\bin\Debug\net8.0\TP05.dll
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\bin\Debug\net8.0\TP05.pdb
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\staticwebassets\msbuild.TP05.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\staticwebassets\msbuild.build.TP05.props
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TP05.props
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TP05.props
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\scopedcss\bundle\TP05.styles.css
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\TP05.dll
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\refint\TP05.dll
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\TP05.pdb
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\TP05.genruntimeconfig.cache
+C:\Users\94643227\Desktop\TP05 - JUSID, ZOLOTOW, SOLMESKY\TP05\obj\Debug\net8.0\ref\TP05.dll

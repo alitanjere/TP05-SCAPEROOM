@@ -3,9 +3,11 @@ namespace TP05.Models
     public static class Escape
     {
         private static string[] IncognitasSala { get; set; } = new string[] { "COMPLOT", "G99H72", "GDIPBEB", "8" };
-        private static int EstadoJuego { get; set; } = 1;
+        public static int EstadoJuego { get; set; } = 1;
         private static int Apoyo { get; set; } = 0;
         private static int TiempoTotal { get; set; } = 0;
+
+        public static string[] Pistas { get; private set; } = new string[] { "Atención por favor, eso está prohibido.", "La primera letra es la ‘C’", "Prestar atención en la puntuación.", "- = ,", "“Todo tiene un comienzo no un final”", "El orden es fijo.", "Abrí bien los ojos", "“Nunca dejes de sumar”" };
 
         public static int GetEstadoJuego()
         {
@@ -32,17 +34,5 @@ namespace TP05.Models
             return false;
         }
 
-        public static string GetPista(int pista)
-        {
-            switch (pista)
-            {
-                case 1:
-                    return "Esta es la primera pista.";
-                case 2:
-                    return "Esta es la segunda pista.";
-                default:
-                    return string.Empty;
-            }
-        }
     }
 }

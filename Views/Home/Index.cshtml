@@ -1,14 +1,18 @@
 ﻿@{
     ViewData["Title"] = "Index";
 }
-
-<div>
+<header>
     <a href='@Url.Action("Index")'> <img src = "~/logoGH.webp" alt = "logo"></img></a>
-    <h1>GRAN HERMANO Scape Room</h1>
+    <div class = "Titulos">
+    <h1>GRAN HERMANO</h1>
     <h3>"La casa más famosa del mundo"</h3>
-    <button><a href = '@Url.Action("Tutorial")'>Tutorial</a></button>
+    </div>
+
+ <button><a href = '@Url.Action("Tutorial")'>Tutorial</a></button>
     <button><a href = '@Url.Action("Comenzar")'>Comenzar</a></button>
     <button><a href = '@Url.Action("Creditos")'>Créditos</a></button>
+</header>
+<div> 
     <img src = "~/santi.webp" alt = "img1"></img>
     <img src = "~/desafio.jpg" alt = "img2"></img>
     <img src = "~/casa.jpg" alt = "img3"></img>

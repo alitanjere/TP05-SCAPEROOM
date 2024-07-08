@@ -20,27 +20,23 @@ namespace TP05.Controllers
         public IActionResult Comenzar()
         {
             int estadoJuego = Escape.GetEstadoJuego();
-            return RedirectToAction("Habitacion", new { id = estadoJuego });
+            SetHabitacionViewData(estadoJuego);
+            return View("Habitacion", new { id = Escape.GetEstadoJuego() });
         }
 
-        public IActionResult Habitacion(int id)
-        {
-            if (id != Escape.GetEstadoJuego())
-            {
-                return RedirectToAction("Habitacion", new { id = Escape.GetEstadoJuego() });
-            }
 
-            SetHabitacionViewData(id);
 
-            return View("Habitacion");
-        }
-
-        [HttpPost]
         public IActionResult Habitacion(int id, string respuesta)
-        {
+        {            int estadoJuego = Escape.GetEstadoJuego();
+
+            int idPista = 2 * (estadoJuego - 1);
+            Console.WriteLine(Escape.Pistas[idPista]);
+            Console.WriteLine(Escape.Pistas[idPista +1]);
+
             if (id != Escape.GetEstadoJuego())
             {
                 return RedirectToAction("Habitacion", new { id = Escape.GetEstadoJuego() });
+
             }
 
             if (Escape.ResolverSala(id, respuesta))
@@ -65,14 +61,6 @@ namespace TP05.Controllers
             ViewBag.TiempoTotal = Escape.GetTiempoTotal();
             return View();
         }
-
-        [HttpPost]
-        public IActionResult Pista(string pista)
-        {
-            ViewBag.Pista = Escape.GetPista(int.Parse(pista));
-            return View();
-        }
-
         public IActionResult Tutorial()
         {
             return View();
@@ -85,6 +73,9 @@ namespace TP05.Controllers
 
         private void SetHabitacionViewData(int id)
         {
+            int idPista = 2 * (Escape.EstadoJuego - 1);
+            Console.WriteLine(Escape.Pistas[idPista]);
+            Console.WriteLine(Escape.Pistas[idPista +1]);
             switch (id)
             {
                 case 1:
@@ -104,6 +95,7 @@ namespace TP05.Controllers
                     ViewData["Description"] = "Suena el teléfono y atendes, tienes la oportunidad de cenar con un familiar y que te de información sobre a quién sacar si completas un desafío.";
                     ViewData["Image"] = "/desafio3.png";
                     ViewData["Action"] = Url.Action("Habitacion", new { id = 3 });
+                    ViewData["Pista1"] = Escape.Pistas[idPista];
                     break;
                 case 4:
                     ViewData["Title"] = "Habitación 4";

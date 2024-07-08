@@ -1,10 +1,19 @@
 @{
     ViewData["Title"] = "Tutorial";
 }
+<header>
+    <a href='@Url.Action("Index")'> <img src = "~/logoGH.webp" alt = "logo"></img></a>
+    <div class = "Titulos">
+    <h1>GRAN HERMANO</h1>
+    <h3>"La casa más famosa del mundo"</h3>
+    </div>
+
+ <button><a href = '@Url.Action("Tutorial")'>Tutorial</a></button>
+    <button><a href = '@Url.Action("Comenzar")'>Comenzar</a></button>
+    <button><a href = '@Url.Action("Creditos")'>Créditos</a></button>
+</header>
 
 <div>
-  <a href='@Url.Action("Index")'> <img src = "~/logoGH.webp" alt = "logo"></img></a>
-    <h1>GRAN HERMANO Scape Room</h1>
     <h3>Tutorial</h3>
     <h2>De que se trata?</h2>
     <p> Entrás a una casa con personas desaconocidas con las que vas a tener que jugar y competir para ganar un premio millonario. 
