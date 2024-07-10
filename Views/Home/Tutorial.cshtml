@@ -2,7 +2,7 @@
     ViewData["Title"] = "Tutorial";
 }
 <header>
-    <a href='@Url.Action("Index")'> <img src = "~/logoGH.webp" alt = "logo"></img></a>
+    <a href='@Url.Action("Index")'> <img src = "~/logoGH.webp" alt = "logo"></a>
     <div class = "Titulos">
     <h1>GRAN HERMANO</h1>
     <h3>"La casa más famosa del mundo"</h3>
@@ -13,16 +13,19 @@
     <button><a href = '@Url.Action("Creditos")'>Créditos</a></button>
 </header>
 
-<div>
-    <h3>Tutorial</h3>
-    <h2>De que se trata?</h2>
+<div class = "Titulos">
+    <h1>Tutorial</h1>
+    <h2>¿De que se trata?</h2>
     <p> Entrás a una casa con personas desaconocidas con las que vas a tener que jugar y competir para ganar un premio millonario. 
     La casa tiene microfonos y camaras por todos lados encedidad las 24 hs.
     En cada sala deberás completar un desafio y encontrar las claves para conseguir votos positivos y ganar el premio.</p>
-    <img src = "~/entrada.jpg"></img>
-    <img src = "~/arena.jpg"></img>
-    <img src = "~/telefono.webp"></img>
-    <img src = "~/final.jpg"></img>
-
-
 </div>
+<section> 
+    <div>
+    <img src = "~/entrada.jpg">
+    <img src = "~/arena.jpg"></div>
+    <div>
+    <img src = "~/telefono.webp">
+    <img src = "~/final.jpg"></div>
+
+</section>
