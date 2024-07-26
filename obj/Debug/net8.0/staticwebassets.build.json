@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XmUswBHLaoScQ+kMJL2T7gd/tKB0TG+irf/KUe+QaIg=",
+  "Hash": "Xi6MvkStUOjU0H0pDgD3PjKe8FzsBQ3tWyzDjv+5l/0=",
   "Source": "TP05",
   "BasePath": "_content/TP05",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TP05\\wwwroot",
       "Source": "TP05",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\Alan.jpeg",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\Alan.jpeg",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "Alan.jpeg",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\Alan.jpeg"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\arena.jpg",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\arena.jpg",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "arena.jpg",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\arena.jpg"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\ari.png",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\ari.png",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "ari.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\ari.png"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\casa.jpg",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\casa.jpg",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "casa.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\casa.jpg"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\css\\site.css",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\css\\site.css",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\desafio.jpg",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\desafio.jpg",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "desafio.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\desafio.jpg"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\desafio1.png",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\desafio1.png",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "desafio1.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\desafio1.png"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\desafio2.png",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\desafio2.png",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "desafio2.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\desafio2.png"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\desafio3.png",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\desafio3.png",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "desafio3.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\desafio3.png"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\desafio4.png",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\desafio4.png",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "desafio4.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\desafio4.png"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\entrada.jpg",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\entrada.jpg",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "entrada.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\entrada.jpg"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\favicon.ico",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\favicon.ico",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\final.jpg",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\final.jpg",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "final.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\final.jpg"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\ganador.webp",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\ganador.webp",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "ganador.webp",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\ganador.webp"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\gif vic.gif",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\gif vic.gif",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "gif vic.gif",
       "AssetKind": "All",
@@ -302,10 +302,29 @@
       "OriginalItemSpec": "wwwroot\\gif vic.gif"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\js\\site.js",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\hero.png",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
+      "BasePath": "_content/TP05",
+      "RelativePath": "hero.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\hero.png"
+    },
+    {
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\js\\site.js",
+      "SourceId": "TP05",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -321,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -340,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -359,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -378,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -397,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -416,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -435,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -454,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -473,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -492,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -511,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -530,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -549,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\logoGH.webp",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\logoGH.webp",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "logoGH.webp",
       "AssetKind": "All",
@@ -568,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\logoGH.webp"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\Santi.jpeg",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\Santi.jpeg",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "Santi.jpeg",
       "AssetKind": "All",
@@ -587,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\Santi.jpeg"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\santi.webp",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\santi.webp",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "santi.webp",
       "AssetKind": "All",
@@ -606,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\santi.webp"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\santo.jpg",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\santo.jpg",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "santo.jpg",
       "AssetKind": "All",
@@ -625,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\santo.jpg"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\telefono.webp",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\telefono.webp",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "telefono.webp",
       "AssetKind": "All",
@@ -644,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\telefono.webp"
     },
     {
-      "Identity": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\Thumbs.db",
+      "Identity": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\Thumbs.db",
       "SourceId": "TP05",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\94643227\\Desktop\\TP05_clon\\TP05-SCAPEROOM\\wwwroot\\",
+      "ContentRoot": "C:\\ORT 2024\\INFO\\PROGRAMACION\\2° Bimestre\\TP05\\TP05-SCAPEROOM\\wwwroot\\",
       "BasePath": "_content/TP05",
       "RelativePath": "Thumbs.db",
       "AssetKind": "All",

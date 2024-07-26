@@ -19,24 +19,19 @@ namespace TP05.Controllers
 
         public IActionResult Comenzar()
         {
+            Escape.IniciarJuego();
             int estadoJuego = Escape.GetEstadoJuego();
             SetHabitacionViewData(estadoJuego);
-            return View("Habitacion", new { id = Escape.GetEstadoJuego() });
+            return View("Habitacion", new { id = estadoJuego });
         }
 
-
-
         public IActionResult Habitacion(int id, string respuesta)
-        {            int estadoJuego = Escape.GetEstadoJuego();
+        {
+            int estadoJuego = Escape.GetEstadoJuego();
 
-            int idPista = 2 * (estadoJuego - 1);
-            Console.WriteLine(Escape.Pistas[idPista]);
-            Console.WriteLine(Escape.Pistas[idPista +1]);
-
-            if (id != Escape.GetEstadoJuego())
+            if (id != estadoJuego)
             {
-                return RedirectToAction("Habitacion", new { id = Escape.GetEstadoJuego() });
-
+                return RedirectToAction("Habitacion", new { id = estadoJuego });
             }
 
             if (Escape.ResolverSala(id, respuesta))
@@ -61,6 +56,7 @@ namespace TP05.Controllers
             ViewBag.TiempoTotal = Escape.GetTiempoTotal();
             return View();
         }
+
         public IActionResult Tutorial()
         {
             return View();
@@ -71,42 +67,26 @@ namespace TP05.Controllers
             return View();
         }
 
+        public IActionResult UsarPista(int id)
+        {
+            Escape.UsarPista();
+            SetHabitacionViewData(id);
+            return View("Habitacion", new { id = id });
+        }
+
         private void SetHabitacionViewData(int id)
         {
-            int idPista = 2 * (Escape.EstadoJuego - 1);
-            Console.WriteLine(Escape.Pistas[idPista]);
-            Console.WriteLine(Escape.Pistas[idPista +1]);
-            switch (id)
-            {
-                case 1:
-                    ViewData["Title"] = "Habitación 1";
-                    ViewData["Description"] = "Entras último a la casa y no conoces a nadie, al principio te fulminan y quedas en placa, pero te llaman al confe para demostrar porque tenes que quedarte, y salis primero de placa. Hay 5 jugadores.";
-                    ViewData["Image"] = "/desafio1.png";
-                    ViewData["Action"] = Url.Action("Habitacion", new { id = 1 });
-                    break;
-                case 2:
-                    ViewData["Title"] = "Habitación 2";
-                    ViewData["Description"] = "A la siguiente semana, jugas la prueba del líder para ganar la inmunidad. Elige un jugador para salvar. Hay 4 jugadores.";
-                    ViewData["Image"] = "/desafio2.png";
-                    ViewData["Action"] = Url.Action("Habitacion", new { id = 2 });
-                    break;
-                case 3:
-                    ViewData["Title"] = "Habitación 3";
-                    ViewData["Description"] = "Suena el teléfono y atendes, tienes la oportunidad de cenar con un familiar y que te de información sobre a quién sacar si completas un desafío.";
-                    ViewData["Image"] = "/desafio3.png";
-                    ViewData["Action"] = Url.Action("Habitacion", new { id = 3 });
-                    ViewData["Pista1"] = Escape.Pistas[idPista];
-                    break;
-                case 4:
-                    ViewData["Title"] = "Habitación 4";
-                    ViewData["Description"] = "Gracias a esto pudiste salir último de placa y llegar a la final. Hay 3 jugadores. Tienes que conseguir la mayor cantidad de votos posibles. El jugador con mayor índice de apoyo va a ganar.";
-                    ViewData["Image"] = "/desafio4.png";
-                    ViewData["Action"] = Url.Action("Habitacion", new { id = 4 });
-                    break;
-                default:
-                    RedirectToAction("Index");
-                    break;
-            }
+            int estadoJuego = Escape.GetEstadoJuego();
+            int idPista = 2 * (estadoJuego - 1);
+
+            ViewData["Title"] = $"Habitación {id}";
+            ViewData["Description"] = Escape.GetDescripcion(id);
+            ViewData["Image"] = $"/desafio{id}.png";
+            ViewData["Action"] = Url.Action("Habitacion", new { id = id });
+            ViewData["Pista1"] = Escape.Pistas[idPista];
+            ViewData["Pista2"] = Escape.Pistas[idPista + 1];
+            ViewData["Apoyo"] = Escape.GetApoyo();
+            ViewData["TiempoRestante"] = 1200 - Escape.GetTiempoTotal(); 
         }
     }
 }

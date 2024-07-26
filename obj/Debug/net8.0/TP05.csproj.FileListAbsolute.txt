@@ -56,3 +56,32 @@ C:\Users\94643227\Desktop\TP05_clon\TP05-SCAPEROOM\obj\Debug\net8.0\refint\TP05.
 C:\Users\94643227\Desktop\TP05_clon\TP05-SCAPEROOM\obj\Debug\net8.0\TP05.pdb
 C:\Users\94643227\Desktop\TP05_clon\TP05-SCAPEROOM\obj\Debug\net8.0\TP05.genruntimeconfig.cache
 C:\Users\94643227\Desktop\TP05_clon\TP05-SCAPEROOM\obj\Debug\net8.0\ref\TP05.dll
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\bin\Debug\net8.0\appsettings.Development.json
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\bin\Debug\net8.0\appsettings.json
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\bin\Debug\net8.0\TP05.staticwebassets.runtime.json
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\bin\Debug\net8.0\TP05.exe
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\bin\Debug\net8.0\TP05.deps.json
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\bin\Debug\net8.0\TP05.runtimeconfig.json
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\bin\Debug\net8.0\TP05.dll
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\bin\Debug\net8.0\TP05.pdb
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\obj\Debug\net8.0\TP05.GeneratedMSBuildEditorConfig.editorconfig
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\obj\Debug\net8.0\TP05.AssemblyInfoInputs.cache
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\obj\Debug\net8.0\TP05.AssemblyInfo.cs
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\obj\Debug\net8.0\TP05.csproj.CoreCompileInputs.cache
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\obj\Debug\net8.0\TP05.MvcApplicationPartsAssemblyInfo.cache
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\obj\Debug\net8.0\TP05.RazorAssemblyInfo.cache
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\obj\Debug\net8.0\TP05.RazorAssemblyInfo.cs
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\obj\Debug\net8.0\TP05.sourcelink.json
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\obj\Debug\net8.0\staticwebassets.build.json
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\obj\Debug\net8.0\staticwebassets.development.json
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\obj\Debug\net8.0\staticwebassets\msbuild.TP05.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\obj\Debug\net8.0\staticwebassets\msbuild.build.TP05.props
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TP05.props
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TP05.props
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\obj\Debug\net8.0\scopedcss\bundle\TP05.styles.css
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\obj\Debug\net8.0\TP05.dll
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\obj\Debug\net8.0\refint\TP05.dll
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\obj\Debug\net8.0\TP05.pdb
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\obj\Debug\net8.0\TP05.genruntimeconfig.cache
+C:\ORT 2024\INFO\PROGRAMACION\2° Bimestre\TP05\TP05-SCAPEROOM\obj\Debug\net8.0\ref\TP05.dll

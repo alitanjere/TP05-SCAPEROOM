@@ -4,18 +4,22 @@
     string habitacionDescripcion = ViewData["Description"] as string;
     string habitacionImagen = ViewData["Image"] as string;
     string habitacionAction = ViewData["Action"] as string;
-    //string [] habitacionPistas = ViewData["Pistas"];
+    string pista1 = ViewData["Pista1"] as string;
+    string pista2 = ViewData["Pista2"] as string;
+    int apoyo = (int)ViewData["Apoyo"];
+    int tiempoRestante = (int)ViewData["TiempoRestante"];
 }
+
 <header>
-    <a href='@Url.Action("Index")'> <img src = "~/logoGH.webp" alt = "logo"></img></a>
-    <div class = "Titulos">
-    <h1>GRAN HERMANO</h1>
-    <h3>"La casa más famosa del mundo"</h3>
+    <a href='@Url.Action("Index")'><img src="~/logoGH.webp" alt="logo"></a>
+    <div class="Titulos">
+        <h1>GRAN HERMANO</h1>
+        <h3>"La casa más famosa del mundo"</h3>
     </div>
 
- <button><a href = '@Url.Action("Tutorial")'>Tutorial</a></button>
-    <button><a href = '@Url.Action("Comenzar")'>Comenzar</a></button>
-    <button><a href = '@Url.Action("Creditos")'>Créditos</a></button>
+    <button><a href='@Url.Action("Tutorial")'>Tutorial</a></button>
+    <button><a href='@Url.Action("Comenzar")'>Comenzar</a></button>
+    <button><a href='@Url.Action("Creditos")'>Créditos</a></button>
 </header>
 <h1>@habitacionTitulo</h1>
 
@@ -30,35 +34,36 @@
     <p style="color:red">@ViewBag.Error</p>
 }
 
+<div class="support-timer">
+    <h3>|  Puntos: @apoyo  |</h3>
+    <h3>|  Tiempo Restante: <span id="tiempo"></span>  |</h3>
+</div>
+
 <form method="get" action="@habitacionAction">
     <label for="respuesta">Introduce la clave:</label>
     <input type="text" id="respuesta" name="respuesta" required />
     <button type="submit">VALIDAR</button>
-
-
-<button onclick="myFunction(@Escape.Pistas)">Pista 1</button>
-<button type="submit" name="pista" value="2">Pista 2</button>
 </form>
+
+<button type="button" onclick="mostrarPista('@pista1')">Pista 1</button>
+<button type="button" onclick="mostrarPista('@pista2')">Pista 2</button>
+
 <script>
-    function myFunction(Escape.P) {
-        switch (id)
-            {
-                case 1:
-                    alert(Escape.Pistas[1]);
-                    break;
-                case 2:
-                    ViewData["Image"] = "/desafio2.png";
-                    break;
-                case 3:
-                    ViewData["Image"] = "/desafio3.png";
-                    break;
-                case 4:
-                    ViewData["Image"] = "/desafio4.png";
-                    break;
-                default:
-                    RedirectToAction("Index");
-                    break;
-        
-            }
+    let tiempo = @tiempoRestante; 
+    let timer = setInterval(function() {
+        let minutes = Math.floor(tiempo / 60);
+        let seconds = tiempo % 60;
+        document.getElementById('tiempo').innerText = 
+            `${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
+        if (tiempo <= 0) {
+            clearInterval(timer);
+            alert("¡Se acabó el tiempo!");
+        }
+        tiempo--;
+    }, 1000);
+
+    function mostrarPista(pista) {
+        alert(pista);
+      
     }
 </script>
