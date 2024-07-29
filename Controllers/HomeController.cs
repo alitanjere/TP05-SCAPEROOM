@@ -28,7 +28,6 @@ namespace TP05.Controllers
         public IActionResult Habitacion(int id, string respuesta)
         {
             int estadoJuego = Escape.GetEstadoJuego();
-
             if (id != estadoJuego)
             {
                 return RedirectToAction("Habitacion", new { id = estadoJuego });
@@ -40,9 +39,11 @@ namespace TP05.Controllers
                 {
                     return RedirectToAction("Victoria");
                 }
-                return RedirectToAction("Habitacion", new { id = id + 1 });
+                id++;
+                SetHabitacionViewData(id);
+                return View("Habitacion", new { id = id });
             }
-            else 
+            else
             {
                 SetHabitacionViewData(id);
                 ViewBag.Error = "Clave incorrecta, intenta de nuevo.";
@@ -86,7 +87,7 @@ namespace TP05.Controllers
             ViewData["Pista1"] = Escape.Pistas[idPista];
             ViewData["Pista2"] = Escape.Pistas[idPista + 1];
             ViewData["Apoyo"] = Escape.GetApoyo();
-            ViewData["TiempoRestante"] = 1200 - Escape.GetTiempoTotal(); 
+            ViewData["TiempoRestante"] = 1200 - Escape.GetTiempoTotal();
         }
     }
 }
