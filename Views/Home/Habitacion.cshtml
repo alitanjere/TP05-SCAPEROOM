@@ -43,10 +43,9 @@
     <label for="respuesta">Introduce la clave:</label>
     <input type="text" id="respuesta" name="respuesta" required />
     <button type="submit">VALIDAR</button>
+    <button type="button" onclick="mostrarPista('@pista1')">Pista 1</button>
+    <button type="button" onclick="mostrarPista('@pista2')">Pista 2</button>
 </form>
-
-<button type="button" onclick="mostrarPista('@pista1')">Pista 1</button>
-<button type="button" onclick="mostrarPista('@pista2')">Pista 2</button>
 
 <script>
     let tiempo = @tiempoRestante; 

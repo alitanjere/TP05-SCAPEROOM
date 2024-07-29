@@ -42,7 +42,7 @@ namespace TP05.Controllers
                 }
                 return RedirectToAction("Habitacion", new { id = id + 1 });
             }
-            else
+            else 
             {
                 SetHabitacionViewData(id);
                 ViewBag.Error = "Clave incorrecta, intenta de nuevo.";
